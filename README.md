@@ -73,6 +73,8 @@ Damit das Modpack optimal läuft, solltest du die Java-Version überprüfen:
 2. **Speicher / Memory** wählen
 3. RAM einstellen
 
+![Ram settings](images/ram.png)
+
 ### 💡 Empfehlung:
 
 | System | RAM zuweisen |
