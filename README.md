@@ -3,8 +3,11 @@
 Folge der Anleitung Schritt für Schritt, um das Modpack korrekt zu installieren und dem Server beizutreten.
 
 ---
+##  1. Modpack herunterladen
 
-## ✅ 1. Prism Launcher herunterladen
+Lade die `.zip` Datei runter, welche ich im Discord hochgeladen habe und speicher Sie irgendwo ab, wo du sie gleich wieder findest.
+
+## ✅ 2. Prism Launcher herunterladen
 
 Falls du Prism Launcher noch nicht installiert hast, lade ihn hier herunter:
 
@@ -25,7 +28,7 @@ Falls du Prism Launcher noch nicht installiert hast, lade ihn hier herunter:
 
 ---
 
-## 👤 2. Minecraft Account in Prism Launcher hinzufügen
+## 👤 3. Minecraft Account in Prism Launcher hinzufügen
 
 Falls du den Prism Launcher zum ersten Mal startest, musst du deinen Minecraft Account hinzufügen:
 
@@ -36,7 +39,7 @@ Falls du den Prism Launcher zum ersten Mal startest, musst du deinen Minecraft A
    
 ---
 
-## 📦 3. Modpack importieren
+## 📦 4. Modpack importieren
 
 1. Prism Launcher öffnen  
 2. **Neue Instanz hinzufügen** klicken  
@@ -49,7 +52,7 @@ Falls du den Prism Launcher zum ersten Mal startest, musst du deinen Minecraft A
 
 ---
 
-## 🔧 4. Instanz bearbeiten & Java Version prüfen
+## 🔧 5. Instanz bearbeiten & Java Version prüfen
 
 Damit das Modpack optimal läuft, solltest du die Java-Version überprüfen:
 
@@ -64,7 +67,7 @@ Damit das Modpack optimal läuft, solltest du die Java-Version überprüfen:
 
 ---
 
-## 🧠 5. RAM zuweisen (sehr wichtig)
+## 🧠 6. RAM zuweisen (sehr wichtig)
 
 1. In der Instanz → **Settings / Einstellungen**
 2. **Speicher / Memory** wählen
