@@ -17,10 +17,10 @@ Falls du Prism Launcher noch nicht installiert hast, lade ihn hier herunter:
 
 > Wähle die Version passend zu deinem Betriebssystem.
 
-**Windows Download Beispiel:**  
+**Windows: Installer (.exe) wählen**  
 ![Windows](images/step2.png)
 
-**macOS Download Beispiel:**  
+**macOS: Installer (Universal) wählen**  
 ![macOS](images/step3.png)
 
 ---
@@ -41,7 +41,7 @@ Falls du den Prism Launcher zum ersten Mal startest, musst du deinen Minecraft A
 1. Prism Launcher öffnen  
 2. **Neue Instanz hinzufügen** klicken  
 3. **Importieren** auswählen  
-4. Das Modpack `.zip` auswählen, das du erhalten hast  
+4. Die Modpack `.zip` auswählen, welche du heruntergeladen hast  
 5. Warten, bis die Installation abgeschlossen ist  
 
 ![Instanz hinzufügen](images/step7.png)
@@ -54,8 +54,8 @@ Falls du den Prism Launcher zum ersten Mal startest, musst du deinen Minecraft A
 Damit das Modpack optimal läuft, solltest du die Java-Version überprüfen:
 
 1. Rechtsklick auf die Modpack-Instanz → **Bearbeiten**
-2. Links auf **Java** gehen
-3. Wenn keine Java-Version vorhanden ist, **"Add" / "Auto-detect" / "Download"** verwenden  
+2. Links auf **Einstellungen / Settings** gehen
+3. Wenn keine Java-Version vorhanden ist, **"Download Java"** verwenden  
    (Empfohlene Version: **Java 21.0.9.10** von Adoptium)
 
 ![Instanz editieren](images/step9.png)
@@ -66,8 +66,6 @@ Damit das Modpack optimal läuft, solltest du die Java-Version überprüfen:
 
 ## 🧠 5. RAM zuweisen (sehr wichtig)
 
-Modpacks benötigen mehr RAM als Vanilla Minecraft.
-
 1. In der Instanz → **Settings / Einstellungen**
 2. **Speicher / Memory** wählen
 3. RAM einstellen
@@ -76,9 +74,9 @@ Modpacks benötigen mehr RAM als Vanilla Minecraft.
 
 | System | RAM zuweisen |
 |--------|----------------|
-| 8 GB RAM | 4096 MB |
-| 16 GB RAM | 6192-8192 MB |
-| 32+ GB RAM | 8192 MB |
+| 8 GB RAM | 4096 MiB |
+| 16 GB RAM | 6192-8192 MiB |
+| 32+ GB RAM | 8192 MiB |
 
 > ⚠️ **Wichtig:** Nicht mehr als 50% deines System-RAM an Minecraft geben!
 
